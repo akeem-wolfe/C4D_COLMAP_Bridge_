@@ -1,0 +1,155 @@
+{
+  "active_camera": "Camera",
+  "active_render_settings": {
+    "height_px": 1280,
+    "pixel_aspect": 1.0,
+    "width_px": 1280
+  },
+  "camera_count": 4,
+  "cameras": [
+    {
+      "film_offset_x": 0.0,
+      "film_offset_y": 0.0,
+      "focal_length_mm": 80.0,
+      "horizontal_fov_raw": 0.4426288846955826,
+      "name": "main camera.3",
+      "projection": 0,
+      "sensor_width_mm": 36.0,
+      "type_id": 5103,
+      "vertical_fov_raw": 0.4426288846955826,
+      "world_matrix": {
+        "axis_x": [
+          0.9914474060313272,
+          -0.0,
+          -0.13050686217109364
+        ],
+        "axis_y": [
+          0.0033652286323386177,
+          0.9996674900321485,
+          0.025565300879431253
+        ],
+        "axis_z": [
+          0.13046346733854972,
+          -0.025785836670617557,
+          0.9911177398862291
+        ],
+        "position": [
+          -10.295852276506997,
+          34.291084925899916,
+          -99.60556940631085
+        ]
+      }
+    },
+    {
+      "film_offset_x": 0.0,
+      "film_offset_y": 0.0,
+      "focal_length_mm": 80.0,
+      "horizontal_fov_raw": 0.4426288846955826,
+      "name": "main camera.2",
+      "projection": 0,
+      "sensor_width_mm": 36.0,
+      "type_id": 5103,
+      "vertical_fov_raw": 0.4426288846955826,
+      "world_matrix": {
+        "axis_x": [
+          0.9914474060313272,
+          -0.0,
+          -0.13050686217109364
+        ],
+        "axis_y": [
+          0.0033652286323386177,
+          0.9996674900321485,
+          0.025565300879431253
+        ],
+        "axis_z": [
+          0.13046346733854972,
+          -0.025785836670617557,
+          0.9911177398862291
+        ],
+        "position": [
+          -10.295852276506997,
+          34.291084925899916,
+          -99.60556940631085
+        ]
+      }
+    },
+    {
+      "film_offset_x": 0.0,
+      "film_offset_y": 0.0,
+      "focal_length_mm": 80.0,
+      "horizontal_fov_raw": 0.4426288846955826,
+      "name": "main camera.1",
+      "projection": 0,
+      "sensor_width_mm": 36.0,
+      "type_id": 5103,
+      "vertical_fov_raw": 0.4426288846955826,
+      "world_matrix": {
+        "axis_x": [
+          0.9914474060313272,
+          -0.0,
+          -0.13050686217109364
+        ],
+        "axis_y": [
+          0.0033652286323386177,
+          0.9996674900321485,
+          0.025565300879431253
+        ],
+        "axis_z": [
+          0.13046346733854972,
+          -0.025785836670617557,
+          0.9911177398862291
+        ],
+        "position": [
+          -10.295852276506997,
+          34.291084925899916,
+          -99.60556940631085
+        ]
+      }
+    },
+    {
+      "film_offset_x": 0.0,
+      "film_offset_y": 0.0,
+      "focal_length_mm": 80.0,
+      "horizontal_fov_raw": 0.4426288846955826,
+      "name": "main camera",
+      "projection": 0,
+      "sensor_width_mm": 36.0,
+      "type_id": 5103,
+      "vertical_fov_raw": 0.4426288846955826,
+      "world_matrix": {
+        "axis_x": [
+          0.9914474060313272,
+          -0.0,
+          -0.13050686217109364
+        ],
+        "axis_y": [
+          0.0033652286323386177,
+          0.9996674900321485,
+          0.025565300879431253
+        ],
+        "axis_z": [
+          0.13046346733854972,
+          -0.025785836670617557,
+          0.9911177398862291
+        ],
+        "position": [
+          -10.295852276506997,
+          34.291084925899916,
+          -99.60556940631085
+        ]
+      }
+    }
+  ],
+  "cinema4d_version": 26013,
+  "created_utc": "2026-11-04T00:22:11.407882Z",
+  "document_name": "MQ_d89_reduced_splat_PYTEST.c4d",
+  "document_units": "Cinema 4D scene units; verify project scale",
+  "notes": [
+    "Read-only report; no scene objects were changed.",
+    "Camera world matrices are recorded as Cinema 4D exposes them.",
+    "COLMAP coordinate conversion and intrinsic calibration are not applied in this diagnostic stage.",
+    "Octane-specific render settings are not modified or assumed."
+  ],
+  "plugin_id_reserved": 1073098,
+  "tool": "C4D to COLMAP Bridge \u2014 Phase 1 scene inspection"
+}

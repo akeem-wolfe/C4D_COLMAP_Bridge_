@@ -1,0 +1,1 @@
+Place rendered images here using the exact filenames in sparse/images.txt. This exporter does not render images.\n

@@ -1,0 +1,1 @@
+# No sparse points are generated in Phase 2.\n

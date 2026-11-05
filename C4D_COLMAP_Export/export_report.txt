@@ -1,0 +1,123 @@
+{
+  "tool": "C4D to COLMAP Bridge Phase 2",
+  "created_utc": "2026-11-05T22:03:24.416915Z",
+  "camera_count": 6,
+  "unique_camera_calibrations": 1,
+  "unique_camera_poses": 6,
+  "image_width": 1280,
+  "image_height": 1280,
+  "pixel_aspect": 1.0,
+  "image_files_rendered": false,
+  "warnings": [],
+  "assumptions": [
+    "C4D local -Z is camera forward and +Y is up.",
+    "COLMAP local +Z is forward and +Y is down.",
+    "Sensor height derived from output aspect ratio (fit-to-width).",
+    "Principal point centred at ((width-1)/2,(height-1)/2).",
+    "Perspective cameras, square pixels and zero film offsets only."
+  ],
+  "images": [
+    {
+      "image_id": 1,
+      "camera_id": 1,
+      "camera_name": "CAMERA B",
+      "image_name": "0001_CAMERA_B.png",
+      "qvec_wxyz": [
+        0.02361646784220701,
+        -0.7072285780561571,
+        0.02358201297190009,
+        -0.7061967781656309
+      ],
+      "tvec": [
+        -0.729999172675895,
+        33.35574700363733,
+        -498.8856193989098
+      ]
+    },
+    {
+      "image_id": 2,
+      "camera_id": 1,
+      "camera_name": "CAMERA A",
+      "image_name": "0002_CAMERA_A.png",
+      "qvec_wxyz": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "tvec": [
+        -0.0,
+        -0.0,
+        499.99999999999665
+      ]
+    },
+    {
+      "image_id": 3,
+      "camera_id": 1,
+      "camera_name": "main camera.3",
+      "image_name": "0003_main_camera.3.png",
+      "qvec_wxyz": [
+        0.008054067457225821,
+        -0.6721420067435571,
+        -0.008871086607257963,
+        0.7403253059233792
+      ],
+      "tvec": [
+        1.0064498460778069,
+        33.154839477751636,
+        -121.23620481000614
+      ]
+    },
+    {
+      "image_id": 4,
+      "camera_id": 1,
+      "camera_name": "main camera.2",
+      "image_name": "0004_main_camera.2.png",
+      "qvec_wxyz": [
+        0.0005012101269387168,
+        -0.040535702209373095,
+        0.01235355031574818,
+        -0.9991015941481617
+      ],
+      "tvec": [
+        2.8813635388416348,
+        33.246694860305034,
+        -121.18097500781506
+      ]
+    },
+    {
+      "image_id": 5,
+      "camera_id": 1,
+      "camera_name": "main camera.1",
+      "image_name": "0005_main_camera.1.png",
+      "qvec_wxyz": [
+        0.009367402762651234,
+        -0.7459715215869751,
+        0.008361410073391798,
+        -0.6658594653290437
+      ],
+      "tvec": [
+        -1.0547292351742925,
+        33.294118813477986,
+        -121.19761910820021
+      ]
+    },
+    {
+      "image_id": 6,
+      "camera_id": 1,
+      "camera_name": "main camera",
+      "image_name": "0006_main_camera.png",
+      "qvec_wxyz": [
+        0.01213202294930773,
+        -0.9978807326760959,
+        -0.0007771721551847523,
+        0.06392380915133984
+      ],
+      "tvec": [
+        -2.833141737807731,
+        33.196589542288486,
+        -121.19584741019887
+      ]
+    }
+  ]
+}\n

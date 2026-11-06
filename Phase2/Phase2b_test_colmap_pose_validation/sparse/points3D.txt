@@ -1,0 +1,2 @@
+# Intentionally empty: this package validates camera poses only.
+# POINT3D_ID X Y Z R G B ERROR TRACK[]

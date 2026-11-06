@@ -1,0 +1,3 @@
+# SYNTHETIC PLACEHOLDER ONLY; no intrinsics were inspected or validated.
+# CAMERA_ID MODEL WIDTH HEIGHT PARAMS
+1 PINHOLE 1 1 1 1 0.5 0.5

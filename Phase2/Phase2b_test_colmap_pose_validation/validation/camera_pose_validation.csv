@@ -1,0 +1,5 @@
+image_id,object_name,image_name,status,flags,centre_x,centre_y,centre_z,forward_x,forward_y,forward_z,axis_x_length,axis_y_length,axis_z_length,scale_error,orthogonality_error,rotation_determinant,qw,qx,qy,qz,tx,ty,tz,centre_roundtrip_error,forward_roundtrip_error,error
+1,Camera D,Camera_D_1.jpg,REVIEW,MIRRORED;INVALID_ROTATION_BASIS;CENTRE_ROUNDTRIP_FAILED,500.0,300.0,500.0,0.0,0.0,1.0,1.0,0.9999999999999998,1.0,2.220446049250313e-16,0.0,-1.0,1.0,0.0,0.0,-0.0,-500.0,300.0,-500.0,600.0,0.0,
+2,Camera C,Camera_C_2.jpg,REVIEW,MIRRORED;INVALID_ROTATION_BASIS;CENTRE_ROUNDTRIP_FAILED,0.0,500.0,0.0,0.0,0.0,1.0,1.0,0.9999999999999999,1.0,1.1102230246251565e-16,0.0,-1.0,1.0,0.0,0.0,-0.0,-0.0,500.0,-0.0,1000.0,0.0,
+3,Camera B,Camera_B_3.jpg,REVIEW,MIRRORED;INVALID_ROTATION_BASIS,500.0,0.0,0.0,0.0,0.0,1.0,1.0,0.9999999999999999,1.0,1.1102230246251565e-16,0.0,-1.0,1.0,0.0,0.0,-0.0,-500.0,0.0,-0.0,0.0,0.0,
+4,Camera A,Camera_A_4.jpg,REVIEW,MIRRORED;INVALID_ROTATION_BASIS,0.0,0.0,500.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,0.0,0.0,-0.0,-0.0,0.0,-500.0,0.0,0.0,

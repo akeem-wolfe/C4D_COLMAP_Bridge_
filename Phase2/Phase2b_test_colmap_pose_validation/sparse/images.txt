@@ -1,0 +1,11 @@
+# Mathematical pose validation output; image files are not included.
+# IMAGE_ID QW QX QY QZ TX TY TZ CAMERA_ID NAME
+# CAMERA_ID 1 refers to the synthetic placeholder in cameras.txt.
+1 1 0 0 -0 -500 300 -500 1 Camera_D_1.jpg
+
+2 1 0 0 -0 -0 500 -0 1 Camera_C_2.jpg
+
+3 1 0 0 -0 -500 0 -0 1 Camera_B_3.jpg
+
+4 1 0 0 -0 -0 0 -500 1 Camera_A_4.jpg
+
